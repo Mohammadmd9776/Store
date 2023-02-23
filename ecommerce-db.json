@@ -111,7 +111,7 @@
       "gender": "male",
       "country": "UK",
       "receiveNewsLetters": true,
-      "role":"user"
+      "role": "user"
     },
     {
       "email": "mohammadmd9776@gmail.com",
@@ -122,7 +122,7 @@
       "country": "2",
       "receiveNewsLetters": "",
       "id": 2,
-      "role":"user"
+      "role": "user"
     },
     {
       "email": "admin@example.com",
@@ -133,7 +133,7 @@
       "country": "4",
       "receiveNewsLetters": "",
       "id": 3,
-      "role":"user"
+      "role": "user"
     },
     {
       "email": "admin@example.com",
@@ -144,7 +144,7 @@
       "country": "4",
       "receiveNewsLetters": "",
       "id": 4,
-      "role":"user"
+      "role": "user"
     },
     {
       "email": "aa@gmail.com",
@@ -155,7 +155,7 @@
       "country": "4",
       "receiveNewsLetters": "",
       "id": 5,
-      "role":"user"
+      "role": "user"
     },
     {
       "email": "admin@gmail.com",
@@ -166,7 +166,7 @@
       "country": "4",
       "receiveNewsLetters": "",
       "id": 6,
-      "role":"admin"
+      "role": "admin"
     }
   ],
   "orders": [
@@ -196,6 +196,13 @@
       "quantity": 1,
       "isPaymentCompleted": false,
       "id": 5
+    },
+    {
+      "userId": 5,
+      "productId": 2,
+      "quantity": 1,
+      "isPaymentCompleted": false,
+      "id": 6
     }
   ]
 }
